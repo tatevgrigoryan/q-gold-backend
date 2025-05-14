@@ -34,6 +34,9 @@
     "Link": {
       "type": "string",
       "default": "#"
+    },
+    "Content": {
+      "type": "richtext"
     }
   }
 }
